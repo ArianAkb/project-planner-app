@@ -12,7 +12,7 @@ export default function NoProjectsSelected({ onClickAddProject }) {
       <p>Select a project or get started with a new one</p>
       <button
         onClick={onClickAddProject}
-        className=" px-4 py-1.5 border rounded text-gray-300 bg-stone-700"
+        className=" px-4 py-1.5 border rounded text-gray-300 bg-stone-700 hover:text-gray-100 hover:bg-stone-900"
       >
         Create new project
       </button>
