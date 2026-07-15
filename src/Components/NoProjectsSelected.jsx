@@ -1,8 +1,10 @@
+import noProjectsImg from "../assets/no-projects.png";
+
 export default function NoProjectsSelected({ onClickAddProject }) {
   return (
     <div className="flex flex-col items-center justify-center h-full gap-4 text-center mt-16">
       <img
-        src="src\assets\no-projects.png"
+        src={noProjectsImg}
         alt="no-projects"
         className="w-20 h-20"
       />
