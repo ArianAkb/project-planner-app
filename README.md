@@ -21,6 +21,8 @@
 * **Frontend:** React, HTML5, Tailwind CSS
 * **State Management:** React Hooks & Local Storage API
 * **DevOps & Hosting:** Docker & Hamravesh
+  
+---
 
 ## Screenshots
 <img width="2848" height="1552" alt="Screenshot 2026-07-20 203407" src="https://github.com/user-attachments/assets/90e0f815-5460-4146-92bc-d7e921224709" />
