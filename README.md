@@ -2,7 +2,7 @@
 
 > A lightweight, highly responsive project and task management application designed for smooth workflow management and real-time state tracking.
 
-[![Live Demo](https://img.shields.io/badge/Demo-Live_App-blue?style=for-the-badge)](https://arian-planner.darkube.ir)
+[![Live App](https://img.shields.io/badge/Live_App-2563EB?style=for-the-badge)](https://arian-planner.darkube.ir)
 
 ---
 
